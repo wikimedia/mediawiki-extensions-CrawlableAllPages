@@ -1,0 +1,4 @@
+* CrawlableAllPages
+
+This extension overrides Special:AllPages by removing the =<meta name=”robots” content=”noindex,nofollow”/>= from the HTML header of the page.  This is a relatively easy way to allow a search engine crawler to index all the pages in your wiki.
+
