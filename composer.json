@@ -1,6 +1,6 @@
 {
 	"name": "mediawiki/crawlable-all-pages",
-	"description": "Extension to remove robot retrictions from Special:AllPages in MediaWiki",
+	"description": "Extension to remove robot restrictions from Special:AllPages in MediaWiki",
 	"type": "mediawiki-extension",
 	"license": "GPL-3.0-or-later",
 	"authors": [
