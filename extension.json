@@ -2,7 +2,7 @@
 	"name": "CrawlableAllPages",
 	"version": "0.1.0",
 	"author": [
-		"[http://meta.wikimedia.org/wiki/User:MarkAHershberger Mark A. Hershberger]"
+		"[https://meta.wikimedia.org/wiki/User:MarkAHershberger Mark A. Hershberger]"
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:CrawlableAllPages",
 	"descriptionmsg": "crawlableallpages-desc",
