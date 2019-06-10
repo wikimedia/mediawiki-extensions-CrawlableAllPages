@@ -12,7 +12,7 @@
 		"MediaWiki\\Extension\\CrawlableAllPages\\Special": "src/Special.php"
 	},
 	"SpecialPages": {
-		"AllPages": "MediaWiki\\Extension\\CrawlableAllPages\\Special",
+		"Allpages": "MediaWiki\\Extension\\CrawlableAllPages\\Special",
 		"CrawlableAllPages": "MediaWiki\\Extension\\CrawlableAllPages\\Special"
 	},
 	"MessagesDirs": {
