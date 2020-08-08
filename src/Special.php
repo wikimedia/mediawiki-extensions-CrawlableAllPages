@@ -24,11 +24,9 @@ namespace MediaWiki\Extension\CrawlableAllPages;
 use SpecialAllPages;
 
 class Special extends SpecialAllPages {
-	/**
-	 * @param string $name of page
-	 */
-	public function __construct( $name = 'CrawlableAllPages' ) {
-		parent::__construct( $name );
+	public function __construct() {
+		parent::__construct();
+		$this->mName = 'CrawlableAllPages';
 	}
 
 	/**
