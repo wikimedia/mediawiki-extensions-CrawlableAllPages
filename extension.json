@@ -8,6 +8,9 @@
 	"descriptionmsg": "crawlableallpages-desc",
 	"license-name": "GPL-3.0-or-later",
 	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
 	"AutoloadClasses": {
 		"MediaWiki\\Extension\\CrawlableAllPages\\Special": "src/Special.php"
 	},
@@ -23,5 +26,5 @@
 	"ExtensionMessagesFiles": {
 		"CrawlableAllPagesAlias": "i18n/CrawlableAllPages.alias.php"
 	},
-	"manifest_version": 1
+	"manifest_version": 2
 }
