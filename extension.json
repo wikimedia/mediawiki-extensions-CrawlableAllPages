@@ -11,8 +11,8 @@
 	"requires": {
 		"MediaWiki": ">= 1.31.0"
 	},
-	"AutoloadClasses": {
-		"MediaWiki\\Extension\\CrawlableAllPages\\Special": "src/Special.php"
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\CrawlableAllPages\\": "src/"
 	},
 	"SpecialPages": {
 		"Allpages": "MediaWiki\\Extension\\CrawlableAllPages\\Special",
